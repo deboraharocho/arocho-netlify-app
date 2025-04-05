@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/arocho-netlify-app/static/css/main.e6c13ad2.css",
-    "main.js": "/arocho-netlify-app/static/js/main.03c0e346.js",
+    "main.js": "/arocho-netlify-app/static/js/main.298aa375.js",
     "static/js/453.a9c04802.chunk.js": "/arocho-netlify-app/static/js/453.a9c04802.chunk.js",
     "index.html": "/arocho-netlify-app/index.html",
     "main.e6c13ad2.css.map": "/arocho-netlify-app/static/css/main.e6c13ad2.css.map",
-    "main.03c0e346.js.map": "/arocho-netlify-app/static/js/main.03c0e346.js.map",
+    "main.298aa375.js.map": "/arocho-netlify-app/static/js/main.298aa375.js.map",
     "453.a9c04802.chunk.js.map": "/arocho-netlify-app/static/js/453.a9c04802.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.03c0e346.js"
+    "static/js/main.298aa375.js"
   ]
 }
